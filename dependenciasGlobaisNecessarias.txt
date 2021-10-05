@@ -1,0 +1,7 @@
+nodemon
+typescript
+ts-node
+
+Caso não as tenha, entre no cmd e rode o comando:
+
+npm install -g nodemon typescript ts-node
